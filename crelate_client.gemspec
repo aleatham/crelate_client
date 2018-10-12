@@ -21,7 +21,7 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Swagger-Codegen"]
   s.email       = [""]
-  s.homepage    = "https://github.com/swagger-api/swagger-codegen"
+  s.homepage    = "https://github.com/aleatham/crelate_client"
   s.summary     = "Crelate API Reference Ruby Gem"
   s.description = "Crelate client generated with swagger-codegen"
   s.license     = "Apache-2.0"
